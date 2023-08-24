@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin: 30px;
+}
+
+button {
+  margin-left: 20px;
+  padding: 35px;
+  font-size: 13pt;
+}
+
+p {
+  margin-left: 20px;
+  font-size: 13pt;
+}

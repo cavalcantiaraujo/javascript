@@ -1,0 +1,10 @@
+.title {
+  margin-left: 20px;
+}
+
+button {
+  margin-left: 20px;  
+  padding: 35px;
+  font-size: 13pt;
+  border-radius: 5px;
+}

@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Pacifico', cursive;
+}
+
+h2 {
+    margin: 30px;
+    font-family: 'Pacifico', cursive;
+}
+
+button {
+    margin-left: 30px;
+    padding: 35px;
+    font-size: 13pt;
+}
+
+p {
+    margin: 30px;
+    font-size: 13pt;
+}
